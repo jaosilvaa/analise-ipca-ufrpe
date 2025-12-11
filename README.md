@@ -59,6 +59,10 @@ O painel responde seis consultas analíticas principais:
 5. Padrões sazonais em produtos festivos
 6. Regiões com maior deflação em hortaliças
 
+## Prévia do Dashboard
+
+![Dashboard Principal](docs/screenshots/dashboard_principal.png)
+
 ## Estrutura do banco de dados
 
 O Data Mart segue o modelo Star Schema com três dimensões e uma tabela fato:

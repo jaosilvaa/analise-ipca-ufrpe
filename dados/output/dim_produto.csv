@@ -1,0 +1,169 @@
+"cod_dim_produto","grupo","subgrupo","nome","codigo"
+1,"Alimentação no domicílio","Cereais, leguminosas e oleaginosas","Arroz",1101002
+2,"Alimentação no domicílio","Cereais, leguminosas e oleaginosas","Feijão - mulatinho",1101051
+3,"Alimentação no domicílio","Cereais, leguminosas e oleaginosas","Feijão - preto",1101052
+4,"Alimentação no domicílio","Cereais, leguminosas e oleaginosas","Feijão - macáçar (fradinho)",1101053
+5,"Alimentação no domicílio","Cereais, leguminosas e oleaginosas","Feijão - carioca (rajado)",1101073
+6,"Alimentação no domicílio","Cereais, leguminosas e oleaginosas","Milho (em grão)",1101079
+7,"Alimentação no domicílio","Farinhas, féculas e massas","Farinha de arroz",1102001
+8,"Alimentação no domicílio","Farinhas, féculas e massas","Macarrão",1102006
+9,"Alimentação no domicílio","Farinhas, féculas e massas","Fubá de milho",1102008
+10,"Alimentação no domicílio","Farinhas, féculas e massas","Flocos de milho",1102010
+11,"Alimentação no domicílio","Farinhas, féculas e massas","Farinha de trigo",1102012
+12,"Alimentação no domicílio","Farinhas, féculas e massas","Farinha de mandioca",1102023
+13,"Alimentação no domicílio","Farinhas, féculas e massas","Massa semipreparada",1102029
+14,"Alimentação no domicílio","Farinhas, féculas e massas","Macarrão instantâneo",1102061
+15,"Alimentação no domicílio","Tubérculos, raízes e legumes","Batata-doce",1103002
+16,"Alimentação no domicílio","Tubérculos, raízes e legumes","Batata-inglesa",1103003
+17,"Alimentação no domicílio","Tubérculos, raízes e legumes","Inhame",1103004
+18,"Alimentação no domicílio","Tubérculos, raízes e legumes","Mandioca (aipim)",1103005
+19,"Alimentação no domicílio","Tubérculos, raízes e legumes","Abobrinha",1103020
+20,"Alimentação no domicílio","Tubérculos, raízes e legumes","Pepino",1103025
+21,"Alimentação no domicílio","Tubérculos, raízes e legumes","Pimentão",1103026
+22,"Alimentação no domicílio","Tubérculos, raízes e legumes","Tomate",1103028
+23,"Alimentação no domicílio","Tubérculos, raízes e legumes","Cebola",1103043
+24,"Alimentação no domicílio","Tubérculos, raízes e legumes","Cenoura",1103044
+25,"Alimentação no domicílio","Açúcares e derivados","Açúcar refinado",1104003
+26,"Alimentação no domicílio","Açúcares e derivados","Açúcar cristal",1104004
+27,"Alimentação no domicílio","Açúcares e derivados","Balas",1104018
+28,"Alimentação no domicílio","Açúcares e derivados","Chocolate em barra e bombom",1104023
+29,"Alimentação no domicílio","Açúcares e derivados","Sorvete",1104032
+30,"Alimentação no domicílio","Açúcares e derivados","Chocolate e achocolatado em pó",1104052
+31,"Alimentação no domicílio","Açúcares e derivados","Doce de frutas em pasta",1104060
+32,"Alimentação no domicílio","Açúcares e derivados","Açúcar demerara",1104067
+33,"Alimentação no domicílio","Hortaliças e verduras","Alface",1105001
+34,"Alimentação no domicílio","Hortaliças e verduras","Coentro",1105004
+35,"Alimentação no domicílio","Hortaliças e verduras","Couve",1105005
+36,"Alimentação no domicílio","Hortaliças e verduras","Couve-flor",1105006
+37,"Alimentação no domicílio","Hortaliças e verduras","Repolho",1105010
+38,"Alimentação no domicílio","Hortaliças e verduras","Cheiro-verde",1105012
+39,"Alimentação no domicílio","Hortaliças e verduras","Brócolis",1105019
+40,"Alimentação no domicílio","Frutas","Banana-da-terra",1106001
+41,"Alimentação no domicílio","Frutas","Abacaxi",1106003
+42,"Alimentação no domicílio","Frutas","Abacate",1106004
+43,"Alimentação no domicílio","Frutas","Banana - d'água",1106005
+44,"Alimentação no domicílio","Frutas","Banana - maçã",1106006
+45,"Alimentação no domicílio","Frutas","Banana - prata",1106008
+46,"Alimentação no domicílio","Frutas","Laranja - baía",1106011
+47,"Alimentação no domicílio","Frutas","Laranja - lima",1106012
+48,"Alimentação no domicílio","Frutas","Limão",1106015
+49,"Alimentação no domicílio","Frutas","Maçã",1106017
+50,"Alimentação no domicílio","Frutas","Mamão",1106018
+51,"Alimentação no domicílio","Frutas","Manga",1106019
+52,"Alimentação no domicílio","Frutas","Maracujá",1106020
+53,"Alimentação no domicílio","Frutas","Melancia",1106021
+54,"Alimentação no domicílio","Frutas","Melão",1106022
+55,"Alimentação no domicílio","Frutas","Pera",1106023
+56,"Alimentação no domicílio","Frutas","Tangerina",1106027
+57,"Alimentação no domicílio","Frutas","Uva",1106028
+58,"Alimentação no domicílio","Frutas","Laranja - pera",1106039
+59,"Alimentação no domicílio","Frutas","Morango",1106051
+60,"Alimentação no domicílio","Frutas","Goiaba",1106084
+61,"Alimentação no domicílio","Carnes","Fígado",1107009
+62,"Alimentação no domicílio","Carnes","Carne de porco",1107018
+63,"Alimentação no domicílio","Carnes","Carne de carneiro",1107031
+64,"Alimentação no domicílio","Carnes","Cupim",1107081
+65,"Alimentação no domicílio","Carnes","Contrafilé",1107084
+66,"Alimentação no domicílio","Carnes","Filé-mignon",1107085
+67,"Alimentação no domicílio","Carnes","Chã de dentro",1107087
+68,"Alimentação no domicílio","Carnes","Alcatra",1107088
+69,"Alimentação no domicílio","Carnes","Patinho",1107089
+70,"Alimentação no domicílio","Carnes","Lagarto redondo",1107090
+71,"Alimentação no domicílio","Carnes","Lagarto comum",1107091
+72,"Alimentação no domicílio","Carnes","Músculo",1107093
+73,"Alimentação no domicílio","Carnes","Pá",1107094
+74,"Alimentação no domicílio","Carnes","Acém",1107095
+75,"Alimentação no domicílio","Carnes","Peito",1107096
+76,"Alimentação no domicílio","Carnes","Capa de filé",1107097
+77,"Alimentação no domicílio","Carnes","Costela",1107099
+78,"Alimentação no domicílio","Carnes","Picanha",1107208
+79,"Alimentação no domicílio","Pescados","Peixe - anchova",1108002
+80,"Alimentação no domicílio","Pescados","Peixe - corvina",1108004
+81,"Alimentação no domicílio","Pescados","Peixe - tainha",1108011
+82,"Alimentação no domicílio","Pescados","Peixe - sardinha",1108012
+83,"Alimentação no domicílio","Pescados","Camarão",1108013
+84,"Alimentação no domicílio","Pescados","Peixe - cavala",1108019
+85,"Alimentação no domicílio","Pescados","Peixe - cação",1108029
+86,"Alimentação no domicílio","Pescados","Peixe - merluza",1108031
+87,"Alimentação no domicílio","Pescados","Peixe - serra",1108032
+88,"Alimentação no domicílio","Pescados","Peixe - pescada",1108038
+89,"Alimentação no domicílio","Pescados","Caranguejo",1108045
+90,"Alimentação no domicílio","Pescados","Peixe - castanha",1108049
+91,"Alimentação no domicílio","Pescados","Peixe - palombeta",1108052
+92,"Alimentação no domicílio","Pescados","Peixe - curimatã",1108072
+93,"Alimentação no domicílio","Pescados","Peixe - salmão",1108075
+94,"Alimentação no domicílio","Pescados","Peixe - tilápia",1108080
+95,"Alimentação no domicílio","Pescados","Peixe - tambaqui",1108087
+96,"Alimentação no domicílio","Pescados","Peixe - dourada",1108088
+97,"Alimentação no domicílio","Pescados","Peixe - filhote",1108092
+98,"Alimentação no domicílio","Pescados","Peixe - peroá",1108096
+99,"Alimentação no domicílio","Pescados","Peixe - pintado",1108112
+100,"Alimentação no domicílio","Pescados","Peixe - aruanã",1108125
+101,"Alimentação no domicílio","Carnes e peixes industrializados","Presunto",1109002
+102,"Alimentação no domicílio","Carnes e peixes industrializados","Salsicha",1109007
+103,"Alimentação no domicílio","Carnes e peixes industrializados","Linguiça",1109008
+104,"Alimentação no domicílio","Carnes e peixes industrializados","Mortadela",1109010
+105,"Alimentação no domicílio","Carnes e peixes industrializados","Salame",1109012
+106,"Alimentação no domicílio","Carnes e peixes industrializados","Bacalhau",1109023
+107,"Alimentação no domicílio","Carnes e peixes industrializados","Carne-seca e de sol",1109056
+108,"Alimentação no domicílio","Carnes e peixes industrializados","Carne de porco salgada e defumada",1109058
+109,"Alimentação no domicílio","Aves e ovos","Frango inteiro",1110009
+110,"Alimentação no domicílio","Aves e ovos","Frango em pedaços",1110010
+111,"Alimentação no domicílio","Aves e ovos","Ovo de galinha",1110044
+112,"Alimentação no domicílio","Leites e derivados","Leite longa vida",1111004
+113,"Alimentação no domicílio","Leites e derivados","Leite condensado",1111008
+114,"Alimentação no domicílio","Leites e derivados","Leite em pó",1111009
+115,"Alimentação no domicílio","Leites e derivados","Queijo",1111011
+116,"Alimentação no domicílio","Leites e derivados","Iogurte e bebidas lácteas",1111019
+117,"Alimentação no domicílio","Leites e derivados","Requeijão",1111021
+118,"Alimentação no domicílio","Leites e derivados","Manteiga",1111031
+119,"Alimentação no domicílio","Leites e derivados","Leite fermentado",1111038
+120,"Alimentação no domicílio","Panificados","Biscoito",1112003
+121,"Alimentação no domicílio","Panificados","Pão francês",1112015
+122,"Alimentação no domicílio","Panificados","Pão doce",1112017
+123,"Alimentação no domicílio","Panificados","Pão de forma",1112018
+124,"Alimentação no domicílio","Panificados","Bolo",1112019
+125,"Alimentação no domicílio","Panificados","Pão de queijo",1112025
+126,"Alimentação no domicílio","Óleos e gorduras","Óleo de soja",1113013
+127,"Alimentação no domicílio","Óleos e gorduras","Azeite de oliva",1113014
+128,"Alimentação no domicílio","Óleos e gorduras","Margarina",1113040
+129,"Alimentação no domicílio","Bebidas e infusões","Suco de frutas",1114001
+130,"Alimentação no domicílio","Bebidas e infusões","Polpa de fruta (congelada)",1114003
+131,"Alimentação no domicílio","Bebidas e infusões","Açaí (emulsão)",1114004
+132,"Alimentação no domicílio","Bebidas e infusões","Café moído",1114022
+133,"Alimentação no domicílio","Bebidas e infusões","Café solúvel",1114023
+134,"Alimentação no domicílio","Bebidas e infusões","Refrigerante e água mineral",1114083
+135,"Alimentação no domicílio","Bebidas e infusões","Cerveja",1114084
+136,"Alimentação no domicílio","Bebidas e infusões","Outras bebidas alcoólicas",1114085
+137,"Alimentação no domicílio","Bebidas e infusões","Vinho",1114087
+138,"Alimentação no domicílio","Bebidas e infusões","Suco em pó",1114090
+139,"Alimentação no domicílio","Bebidas e infusões","Chá mate (erva mate)",1114091
+140,"Alimentação no domicílio","Enlatados e conservas","Alimento infantil",1115013
+141,"Alimentação no domicílio","Enlatados e conservas","Palmito em conserva",1115016
+142,"Alimentação no domicílio","Enlatados e conservas","Pepino em conserva",1115017
+143,"Alimentação no domicílio","Enlatados e conservas","Sardinha em conserva",1115039
+144,"Alimentação no domicílio","Enlatados e conservas","Salsicha em conserva",1115050
+145,"Alimentação no domicílio","Enlatados e conservas","Sopa desidratada",1115056
+146,"Alimentação no domicílio","Enlatados e conservas","Azeitona",1115057
+147,"Alimentação no domicílio","Enlatados e conservas","Milho-verde em conserva",1115058
+148,"Alimentação no domicílio","Enlatados e conservas","Atum em conserva",1115075
+149,"Alimentação no domicílio","Sal e condimentos","Leite de coco",1116001
+150,"Alimentação no domicílio","Sal e condimentos","Atomatado",1116005
+151,"Alimentação no domicílio","Sal e condimentos","Alho",1116010
+152,"Alimentação no domicílio","Sal e condimentos","Sal",1116013
+153,"Alimentação no domicílio","Sal e condimentos","Colorau",1116022
+154,"Alimentação no domicílio","Sal e condimentos","Caldo de tucupi",1116023
+155,"Alimentação no domicílio","Sal e condimentos","Fermento",1116026
+156,"Alimentação no domicílio","Sal e condimentos","Maionese",1116033
+157,"Alimentação no domicílio","Sal e condimentos","Vinagre",1116041
+158,"Alimentação no domicílio","Sal e condimentos","Caldo concentrado",1116048
+159,"Alimentação no domicílio","Sal e condimentos","Tempero misto",1116071
+160,"Alimentação fora do domicílio","Alimentação fora do domicílio","Refeição",1201001
+161,"Alimentação fora do domicílio","Alimentação fora do domicílio","Lanche",1201003
+162,"Alimentação fora do domicílio","Alimentação fora do domicílio","Refrigerante e água mineral",1201007
+163,"Alimentação fora do domicílio","Alimentação fora do domicílio","Cafezinho",1201009
+164,"Alimentação fora do domicílio","Alimentação fora do domicílio","Cerveja",1201048
+165,"Alimentação fora do domicílio","Alimentação fora do domicílio","Outras bebidas alcoólicas",1201051
+166,"Alimentação fora do domicílio","Alimentação fora do domicílio","Vinho",1201052
+167,"Alimentação fora do domicílio","Alimentação fora do domicílio","Doces",1201061
+168,"Alimentação fora do domicílio","Alimentação fora do domicílio","Sorvete",1201088

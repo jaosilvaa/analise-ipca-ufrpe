@@ -61,7 +61,12 @@ O painel responde seis consultas analíticas principais:
 
 ## Prévia do Dashboard
 
+
 ![Dashboard Principal](docs/screenshots/dashboard_principal.png)
+
+Acesse a versão publicada do dashboard no Power BI Online:
+[Link para dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTkyNmI4OTgtZTMwZi00MjQzLWFlZDAtMjIwZWI5Y2Y3ZTQ1IiwidCI6ImE2Zjc0ZWZhLTM2NzQtNDQ5YS1hY2FlLWMwYTIzODYzNzUwNCJ9)
+
 
 ## Estrutura do banco de dados
 
@@ -74,7 +79,7 @@ O Data Mart segue o modelo Star Schema com três dimensões e uma tabela fato:
 
 ## Autores
 
-Jhonnata Carvalho Santos  
 João Vitor Alcântara da Silva
+Jhonnata Carvalho Santos  
 
 Projeto acadêmico - UFRPE/UAST

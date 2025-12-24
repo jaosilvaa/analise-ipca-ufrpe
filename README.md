@@ -4,7 +4,7 @@ Projeto de Business Intelligence desenvolvido para a disciplina de Sistemas de A
 
 ## O que é este projeto
 
-Construímos uma solução completa de BI para entender como os preços dos alimentos variaram nas principais capitais brasileiras nos últimos dois anos (agosto de 2023 a agosto de 2025). Usamos dados reais do IBGE para responder perguntas práticas como:
+Construímos uma solução completa de BI para entender como os preços dos alimentos variaram nas principais capitais brasileiras nos últimos dois anos (setembro de 2023 a agosto de 2025). Usamos dados reais do IBGE para responder perguntas práticas como:
 
 - Qual categoria de alimentos (frutas, carnes, cereais) subiu mais de preço?
 - A inflação foi maior em São Paulo ou Rio de Janeiro?
